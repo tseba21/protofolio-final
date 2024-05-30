@@ -35,8 +35,8 @@ h2 {
 }
 
 .contact-button {
-  width: 125px;
-  height: 55px;
+ width: 130px;
+  height: 45px;
   padding: 20px auto;
   border-radius: 4px;
   border: none;
@@ -50,8 +50,9 @@ form {
   width: 70%;
 }
 a {
-  color: blue;
+ color: rgba(108, 99, 255, 1);
 }
 a:hover {
-  color: blue;
+ color: black;
+  text-decoration: none;
 }
